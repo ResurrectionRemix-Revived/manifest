@@ -25,7 +25,6 @@
   <project path="external/pulse" name="external_pulse" remote="rr" />
   <project path="external/stitchimage" name="external_stitchimage" remote="rr" />
   <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="android_vendor_qcom_opensource_bluetooth_ext" remote="rr" />
-  <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="rr"/>
 
   <!-- Overlays -->
   <project path="packages/overlays/Resurrection" name="vendor_overlays_resurrection" remote="rr" />
